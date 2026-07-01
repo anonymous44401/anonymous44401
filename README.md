@@ -1,8 +1,6 @@
-# 👋 Hi, I’m anonymous44401... but most people call me Cameron.
-🖥️ I primarily work in Python.
+# 👋 Hi, I’m anonymous44401/Cameron!
+🖥️ I'm a trainee full stack developer based in the UK.
 
-🖥️ I work on the [realtime-trains-py](https://www.github.com/realtime-trains-lang/realtime-trains-py) repository a lot.
+🖥️ I do a lot of work on the [realtime-trains-py](https://www.github.com/realtime-trains-lang/realtime-trains-py) repository.
 
-🌱 I’m currently learning Rust, Java and Go.
-
-⚡ Fun fact: I am a massive train nerd.
+🌱 I’m currently learning Java, C# and PHP. 
