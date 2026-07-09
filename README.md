@@ -3,4 +3,4 @@
 
 🖥️ I do a lot of work on the [realtime-trains-py](https://www.github.com/realtime-trains-lang/realtime-trains-py) repository.
 
-🌱 I’m currently learning Java, C# and PHP. 
+🌱 I’m currently learning Rust. 
